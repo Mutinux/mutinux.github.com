@@ -5,18 +5,14 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
-
-who involved in 
-
-> [github](https://github.com/waynezhang)
+> A lazy day-dreamer | Dentist to be | Linux | OS X
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo "aUBtdXRpbnV4LmNvbQo=" | base64 -D
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [@mutinux](https://twitter.com/#!/mutinux)
 
 to reach me
