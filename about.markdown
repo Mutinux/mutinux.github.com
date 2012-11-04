@@ -1,11 +1,11 @@
 ---
-title: about
+title: About
 layout: page
 ---
 
 a
 
-> A lazy day-dreamer | Dentist to be | Linux | OS X
+> lazy day-dreamer | Dentist to be | Linux | OS X
 
 mail 
 
