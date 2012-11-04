@@ -1,5 +1,5 @@
 ---
-title: Hello-jekyll
+title: Hello Jekyll
 layout: post
 guid: urn:uuid:05ea9f7d-8bb0-40a2-bca1-58a6b5db74be
 tags: life
