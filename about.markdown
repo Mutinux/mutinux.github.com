@@ -5,7 +5,7 @@ layout: page
 
 a
 
-> lazy day-dreamer | Dentist to be | Linux | OS X
+> lazy day-dreamer | Dentist to be | OS X | GNU/Linux
 
 mail 
 
