@@ -35,4 +35,4 @@ tags: #blog
 
 		IMG_PATH: http://yourqiniuname.qiniudn.com
 		
-+ 之后写个post里如需要插入图片，以 `![Alt text]({{site.IMG_PATH}}/picture.jpg)` 语法完成即可。
++ 之后写个post里如需要插入图片，以 `![Alt text](\{\{site.IMG_PATH}}/picture.jpg)` 语法完成即可，**记得去除我例子中的转义字符**。
