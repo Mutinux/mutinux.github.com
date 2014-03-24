@@ -2,7 +2,7 @@
 title: 小修改希望提高Blog访问速度
 layout: post
 guid: urn:uuid:710cb152-b1b1-4457-bf8c-585a0546862f
-tags: #blog
+tags: blog
   - 
 ---
 这两天也是机缘巧合，先后做了两件事，应该比较明显的提高了小站的访问速度。当然此博客依旧采用jekyll托管在Github上，所做的优化也都是表面功夫。
