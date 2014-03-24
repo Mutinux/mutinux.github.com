@@ -9,7 +9,7 @@ tags:
 
 晚饭于“小排档麻辣烫”处解决，With 娜及两师兄。
 
-<span class="image-800">![麻辣烫](/media/files/2013-03-19-snow.jpg)</span>
+<span class="image-800">![麻辣烫]({{IMG_PATH}}/2013-03-19-snow.jpg)</span>
 
 ---
 

@@ -3,3 +3,4 @@ pygments: true
 permalink: /:year/:month/:day/:title.html
 name: Mutinux
 markdown: rdiscount
+IMG_PATH: http://mutinuxjekyll.qiniudn.com
